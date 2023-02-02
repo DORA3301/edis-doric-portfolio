@@ -9,6 +9,7 @@ import Work8 from "../../assets/livesite4instant.png";
 import Work9 from "../../assets/newsletter.png";
 import Work10 from "../../assets/dicegame.png";
 import Work11 from "../../assets/form.jpg";
+import Work12 from "../../assets/todolist.png";
 
 export const projectsData = [
   {
@@ -87,6 +88,13 @@ export const projectsData = [
     title: "Simple Survey Form",
     category: "static sites",
     url: "https://form-survey-form.onrender.com",
+  },
+  {
+    id: 12,
+    image: Work12,
+    title: "To Do List",
+    category: "dynamic sites",
+    url: "https://to-do-list-database.onrender.com/",
   },
 ];
 
